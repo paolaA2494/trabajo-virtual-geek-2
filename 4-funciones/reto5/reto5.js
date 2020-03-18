@@ -1,7 +1,8 @@
 'use strict';
-function product(a, b) {
-    const result = a * b;
 
+
+const product = (a, b) => {
+    const result = a * b;
     return result;
 }
 
